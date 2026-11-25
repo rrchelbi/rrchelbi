@@ -1,4 +1,9 @@
 ### Hi, I'm Riadh  👋
 
-I write code meant to be read, modified, and shared.  
-Building tools, systems, and ideas for those who care about simplicity and clarity.  
+Software engineer working on cloud infrastructure, platform engineering and Kubernetes runtime security.
+
+#### What I work on
+- Kubernetes runtime security: detecting and understanding workload behavior with eBPF.
+- Platform tooling: CI/CD, build infrastructure and self-hosted runners.
+- Isolation and virtualization: Firecracker and KVM internals.
+- Distributed systems in Go and Rust.
